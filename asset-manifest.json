@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/rashaabdulrazzak/showcodechalleng2-nft/static/css/main.56a41044.chunk.css",
-    "main.js": "/rashaabdulrazzak/showcodechalleng2-nft/static/js/main.eeaeffdc.chunk.js",
-    "main.js.map": "/rashaabdulrazzak/showcodechalleng2-nft/static/js/main.eeaeffdc.chunk.js.map",
-    "runtime-main.js": "/rashaabdulrazzak/showcodechalleng2-nft/static/js/runtime-main.7a60f48e.js",
-    "runtime-main.js.map": "/rashaabdulrazzak/showcodechalleng2-nft/static/js/runtime-main.7a60f48e.js.map",
-    "static/js/2.f4497a51.chunk.js": "/rashaabdulrazzak/showcodechalleng2-nft/static/js/2.f4497a51.chunk.js",
-    "static/js/2.f4497a51.chunk.js.map": "/rashaabdulrazzak/showcodechalleng2-nft/static/js/2.f4497a51.chunk.js.map",
-    "static/js/3.365add5f.chunk.js": "/rashaabdulrazzak/showcodechalleng2-nft/static/js/3.365add5f.chunk.js",
-    "static/js/3.365add5f.chunk.js.map": "/rashaabdulrazzak/showcodechalleng2-nft/static/js/3.365add5f.chunk.js.map",
-    "index.html": "/rashaabdulrazzak/showcodechalleng2-nft/index.html",
-    "static/css/main.56a41044.chunk.css.map": "/rashaabdulrazzak/showcodechalleng2-nft/static/css/main.56a41044.chunk.css.map",
-    "static/js/2.f4497a51.chunk.js.LICENSE.txt": "/rashaabdulrazzak/showcodechalleng2-nft/static/js/2.f4497a51.chunk.js.LICENSE.txt",
-    "static/media/confetti.4ea37647.png": "/rashaabdulrazzak/showcodechalleng2-nft/static/media/confetti.4ea37647.png",
-    "static/media/cover.6626d8e4.png": "/rashaabdulrazzak/showcodechalleng2-nft/static/media/cover.6626d8e4.png"
+    "main.css": "/rashaabdulrazzak/static/css/main.56a41044.chunk.css",
+    "main.js": "/rashaabdulrazzak/static/js/main.08410a9a.chunk.js",
+    "main.js.map": "/rashaabdulrazzak/static/js/main.08410a9a.chunk.js.map",
+    "runtime-main.js": "/rashaabdulrazzak/static/js/runtime-main.db112fb6.js",
+    "runtime-main.js.map": "/rashaabdulrazzak/static/js/runtime-main.db112fb6.js.map",
+    "static/js/2.f556b253.chunk.js": "/rashaabdulrazzak/static/js/2.f556b253.chunk.js",
+    "static/js/2.f556b253.chunk.js.map": "/rashaabdulrazzak/static/js/2.f556b253.chunk.js.map",
+    "static/js/3.365add5f.chunk.js": "/rashaabdulrazzak/static/js/3.365add5f.chunk.js",
+    "static/js/3.365add5f.chunk.js.map": "/rashaabdulrazzak/static/js/3.365add5f.chunk.js.map",
+    "index.html": "/rashaabdulrazzak/index.html",
+    "static/css/main.56a41044.chunk.css.map": "/rashaabdulrazzak/static/css/main.56a41044.chunk.css.map",
+    "static/js/2.f556b253.chunk.js.LICENSE.txt": "/rashaabdulrazzak/static/js/2.f556b253.chunk.js.LICENSE.txt",
+    "static/media/confetti.4ea37647.png": "/rashaabdulrazzak/static/media/confetti.4ea37647.png",
+    "static/media/cover.6626d8e4.png": "/rashaabdulrazzak/static/media/cover.6626d8e4.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7a60f48e.js",
-    "static/js/2.f4497a51.chunk.js",
+    "static/js/runtime-main.db112fb6.js",
+    "static/js/2.f556b253.chunk.js",
     "static/css/main.56a41044.chunk.css",
-    "static/js/main.eeaeffdc.chunk.js"
+    "static/js/main.08410a9a.chunk.js"
   ]
 }
